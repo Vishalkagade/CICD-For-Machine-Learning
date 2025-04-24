@@ -1,5 +1,3 @@
-# CICD-For-Machine-Learning
-
 ---
 title: Drug Classification
 emoji: 🌖
